@@ -1,0 +1,10 @@
+h2{
+  color: tomato;
+  font-weight: bolder;
+  text-align: center;
+}
+p{
+  text-align: justify;
+  background-color: bisque;
+  margin-bottom: 20px;
+}
